@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitinho4562
-- 👀 I’m interested in Flutterflow
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutterflow and firebase
+- - 🌱 I’m currently learning now code
+- 💞️ I’m looking to collaborate with my knowledge
 - 📫 How to reach me ...
 
 <!---
